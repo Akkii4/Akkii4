@@ -14,10 +14,11 @@
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
 Currently, I am working as Blockchain Developer at [CryptionStudios](https://cryptionstudios.com), Pune.
-And parallelly working as Freelance Full Stack Blockchain Developer , so don't hesitate to contact at [Mail](mailto:akshitchoudhary007@gmail.com?subject=Discussion for Freelancing) or [LinkedIn](https://www.linkedin.com/in/akshit-choudhary-b5892b43/) for the services.
+And parallelly working as Freelance Full Stack Blockchain Developer , so don't hesitate to contact at akshitchoudhary007@gmail.com or [LinkedIn](https://www.linkedin.com/in/akshit-choudhary-b5892b43/) for the services.
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+## Know about My project Portfolio ##
 - 📫 My Resume: [View PDF](https://drive.google.com/file/d/1KnfEudCE2hmgRfnBng7-BpTk08uw0qGC/view)
 
 
@@ -25,7 +26,7 @@ And parallelly working as Freelance Full Stack Blockchain Developer , so don't h
 ----------------------------------------------------------------------------------------------------------------------------
 - Languages - **Solidity,JavaScript & HTML,CSS**
 - Libraries/Frameworks: - **Bootstrap, React, NodeJS, ExpressJS and REST API**
-- Databases/ODM: - **MySQL, MongoDB and PostgresSQL**
+- Databases: - **MySQL, MongoDB and PostgresSQL**
 - Tools: - **Truffle, Ganacehe, CLI, Git, Github and Developer Tools**
 
 ### Github Readme Stats ###
