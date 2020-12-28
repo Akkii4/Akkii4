@@ -14,7 +14,7 @@
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
 Currently, I am working as Blockchain Developer at [Cryption Studios](https://cryptionstudios.com), Pune.
-And parallelly working as Freelance Full Stack Blockchain Developer , so don't hesitate to contact at akshitchoudhary007@gmail.com or [LinkedIn](https://www.linkedin.com/in/akshit-choudhary-b5892b43/) for the services.
+And parallelly working as Freelance Full Stack Blockchain Developer , so don't hesitate to contact at akshitchoudhary007@gmail.com or [LinkedIn](https://www.linkedin.com/in/choudharyAkshit/) for the services.
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
