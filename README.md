@@ -26,8 +26,7 @@ And parallelly working as Freelance Full Stack Blockchain Developer , so don't h
 ----------------------------------------------------------------------------------------------------------------------------
 - Languages - **Solidity,JavaScript & HTML,CSS**
 - Libraries/Frameworks: - **Bootstrap, React, NodeJS, ExpressJS and REST API**
-- Databases: - **MySQL, MongoDB and PostgresSQL**
-- Tools: - **Truffle, Ganacehe, CLI, Git, Github and Developer Tools**
+- Tools: - **Truffle, Ganache, Git**
 
 ### Github Readme Stats ###
 ----------------------------------------------------------------------------------------------------------------------------
