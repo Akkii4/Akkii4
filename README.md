@@ -19,7 +19,7 @@ And parallelly working as Freelance Full Stack Blockchain Developer , so don't h
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 #### My Portfolio ####
-- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1KnfEudCE2hmgRfnBng7-BpTk08uw0qGC/view)
+- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1hKiMnX7YAhKYLtienVl6l5XUd2U1aUd0/view?usp=sharing)
 
 
 ### Skills ###
