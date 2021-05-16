@@ -27,7 +27,7 @@ And parallelly working as Freelance Full Stack Blockchain Developer , so don't h
 - Languages - **Solidity,JavaScript & HTML,CSS**
 - Libraries/Frameworks: - **Bootstrap, React, NodeJS, ExpressJS and REST API**
 - Tools: - **Truffle, Ganache, Git**
-- Blockchain Experinced in -: Ethereum, Binance Smart Chain, Polygon(prev. Matic), Tron
+- Blockchain Experinced in -: **Ethereum, Binance Smart Chain, Polygon(prev. Matic) and Tron**
 
 ### Github Readme Stats ###
 ----------------------------------------------------------------------------------------------------------------------------
