@@ -1,4 +1,4 @@
-## Hey Everyone 👋, I'm Akshit Choudhary, a Freelance Full Stack Blockchain Developer ##
+## Hey Everyone 👋, I'm Akshit Choudhary, a Freelance Solidity Blockchain Developer ##
 
 <a href="https://www.linkedin.com/in/akshit-choudhary-b5892b43/">
   <img align="left" alt="Akshit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
