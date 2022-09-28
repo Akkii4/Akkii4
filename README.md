@@ -23,10 +23,10 @@ A Freelance Solidity Blockchain Developer , so don't hesitate to contact at aksh
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **Solidity,JavaScript & HTML,CSS**
-- Libraries/Frameworks: - **Bootstrap, React, NodeJS, ExpressJS and REST API**
+- Languages - **Solidity & JavaScript**
+- Libraries/Frameworks: - **React, NodeJS, ExpressJS and REST API**
 - Tools: - **Hardhat, Truffle, Ganache, Git**
-- Blockchain Experinced in -: **Ethereum, Layer 2, Binance Smart Chain, Polygon(prev. Matic) and Tron**
+- Blockchain Experinced in -: **Ethereum, Layer 2(Arbitrum), Binance Smart Chain, Polygon(prev. Matic) and Tron**
 
 ### Github Readme Stats ###
 ----------------------------------------------------------------------------------------------------------------------------
