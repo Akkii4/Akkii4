@@ -18,7 +18,7 @@ A Freelance Solidity Blockchain Developer , so don't hesitate to contact at aksh
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 #### My Portfolio ####
-- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1CduUngY8xDVN2FVnQT8Jf_urUOrVQSn7/view?usp=drivesdk)
+- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1I-9UTEpUhE7EpHEYUDEA8wRZw7Au8oX1/view?usp=share_link)
 
 
 ### Skills ###
