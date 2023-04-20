@@ -18,12 +18,12 @@ A Freelance Solidity Blockchain Developer , so don't hesitate to contact at aksh
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 #### My Portfolio ####
-- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1trxXV3uSa5YOvHty-ysJuoyzpM0yeHf3/view?usp=share_link)
+- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1W0MrPJTeooBP5YHyvyTN5_BCKPkJeDR1/view?usp=sharing)
 
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
 - Languages - **Solidity & JavaScript**
-- Libraries/Frameworks: - **React, NodeJS, ExpressJS and REST API**
+- Libraries/Frameworks: - **React and NodeJS**
 - Tools: - **Hardhat, Truffle, Ganache, Git**
-- Blockchain Experinced in -: **Ethereum, Layer 2(Arbitrum), Binance Smart Chain, Polygon(prev. Matic) and Tron**
+- Blockchain Hands on experience in -: **Ethereum, Layer 2(Arbitrum), Binance Smart Chain, Polygon(prev. Matic) and Tron**
