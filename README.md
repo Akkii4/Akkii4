@@ -1,4 +1,4 @@
-## Hey there 👋, I'm Akshit Choudhary, a Solidity Engineer ## 
+## Hey there 👋, you stumbled upon the profile of a Solidity Engineer ## 
 I'm a Blockchain's Smart Contract Developer/ Architect  with over 4.5+ years of experience building decentralized applications and smart contracts for Ethereum, Layer 2(Arbitrum), Binance Smart Chain, Polygon(prev. Matic) and Tron.
 
 <a href="https://www.linkedin.com/in/akshit-choudhary-b5892b43/">
