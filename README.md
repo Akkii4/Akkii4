@@ -22,3 +22,9 @@ I'm a Blockchain's Smart Contract Developer/ Architect  with over 4.5+ years of 
 <img src="https://img.shields.io/badge/Hardhat-ffff00?style=flat-square&logo=truffle&logoColor=white" />
 <img src="https://img.shields.io/badge/Truffle-623CE4?style=flat-square&logo=truffle&logoColor=white" />
 </p>
+
+</br>
+
+<div>
+  <img width="430" height="200" src="https://github-readme-stats.vercel.app/api?username=Akkii4&show_icons=true&hide_border=false&line_height=30&title_color=2780E7&icon_color=5D6D7E&text_color=34495E&show_owner=true&count_private=true"/>
+</div>
