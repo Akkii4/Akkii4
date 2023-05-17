@@ -1,7 +1,7 @@
 ## Hey there 👋, you stumbled upon the profile of a Solidity Engineer ## 
 
 ## 💫 About Me:
-I'm a Blockchain's Smart Contract Developer/ Architect  with over 4.5+ years of experience building decentralized applications and smart contracts for Ethereum, Layer 2(Arbitrum), Binance Smart Chain, Polygon(prev. Matic) and Tron.
+An EVM Blockchain's Smart Contract Developer/ Architect  with over 4.5+ years of experience building decentralized applications and smart contracts for Ethereum, Layer 2(Arbitrum), Binance Smart Chain, Polygon(prev. Matic) and Tron.
 
 📫 [My Resume](https://drive.google.com/file/d/1W0MrPJTeooBP5YHyvyTN5_BCKPkJeDR1/view?usp=sharing)
 
