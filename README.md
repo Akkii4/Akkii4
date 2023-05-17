@@ -49,7 +49,11 @@ I'm a Blockchain's Smart Contract Developer/ Architect  with over 4.5+ years of 
 ![0xPolygon](https://avatars.githubusercontent.com/u/66309068?s=40&v=4)
   [fx-portal](https://github.com/0xPolygon/fx-portal/pull/7/commits)
 ![AlphaFinanceLab](https://avatars.githubusercontent.com/u/69663020?s=40&v=4)
-  [alpha-homora-v1-eth-contract](https://github.com/AlphaFinanceLab/alpha-homora-v1-eth-contract/pull/18)<br/>
+  [alpha-homora-v1-eth-contract](https://github.com/AlphaFinanceLab/alpha-homora-v1-eth-contract/pull/18)
+  ![jamesbachini](https://avatars.githubusercontent.com/u/20736739?s=40&v=4)
+  [Solidity-SBT-Soul-Bound-Token](https://github.com/jamesbachini/Solidity-SBT-Soul-Bound-Token/pull/2#issuecomment-1548133418)
+    ![patrickd-](https://avatars.githubusercontent.com/u/2522448?s=40&v=4)
+  [cheatsheet.sol](https://github.com/patrickd-/cheatsheet.sol/pull/1)<br/>
 ![Kommunitas-net](https://avatars.githubusercontent.com/u/72222929?s=40&v=4)
   [Kommunitas-Staking](https://github.com/Kommunitas-net/Kommunitas-Staking/commits?author=Akkii4&since=2021-06-30&until=2021-08-31Kommunitas-Staking) • [Kommunitas_Voting_Token](https://github.com/Kommunitas-net/Kommunitas_Voting_Token/commits?author=Akkii4&since=2021-06-30&until=2021-07-31) • [Staking-Interface](https://github.com/Kommunitas-net/Staking-Interface/commits?author=Akkii4&since=2021-06-30&until=2021-08-31Staking-Interface) • [Airdrop](https://github.com/Kommunitas-net/Airdrop/commits?author=Akkii4&since=2021-07-31&until=2021-08-31)<br/>
 
