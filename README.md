@@ -43,8 +43,6 @@ An EVM Blockchain's Smart Contract Developer/ Architect  with over 4.5+ years of
   [new-host](https://github.com/dfyn/new-host/pull/14) • [dfyn-analytics](https://github.com/dfyn/dfyn-analytics/pull/2)
 ![Value Network](https://s2.coinmarketcap.com/static/img/coins/64x64/9230.png)
   [Linear-Vesting](https://github.com/valuenetworklive2021/Linear-Vesting/commits?author=Akkii4&since=2020-11-30&until=2020-12-31)
-![AlphaFinanceLab](https://avatars.githubusercontent.com/u/69663020?s=40&v=4)
-  [alpha-homora-v1-eth-contract](https://github.com/AlphaFinanceLab/alpha-homora-v1-eth-contract/pull/18)
   ![jamesbachini](https://avatars.githubusercontent.com/u/20736739?s=40&v=4)
   [SBT-Soul-Bound-Token](https://github.com/jamesbachini/Solidity-SBT-Soul-Bound-Token/pull/2#issuecomment-1548133418)<br/>
     ![patrickd-](https://avatars.githubusercontent.com/u/2522448?s=40&v=4)
@@ -53,6 +51,7 @@ An EVM Blockchain's Smart Contract Developer/ Architect  with over 4.5+ years of
   [Kommunitas-Staking](https://github.com/Kommunitas-net/Kommunitas-Staking/commits?author=Akkii4&since=2021-06-30&until=2021-08-31Kommunitas-Staking) • [Kommunitas_Voting_Token](https://github.com/Kommunitas-net/Kommunitas_Voting_Token/commits?author=Akkii4&since=2021-06-30&until=2021-07-31) • [Staking-Interface](https://github.com/Kommunitas-net/Staking-Interface/commits?author=Akkii4&since=2021-06-30&until=2021-08-31Staking-Interface) • [Airdrop](https://github.com/Kommunitas-net/Airdrop/commits?author=Akkii4&since=2021-07-31&until=2021-08-31)<br/>
 **Guilty Pleasures 🤭** : ![pancakeswap](https://avatars.githubusercontent.com/u/71247426?s=40&v=4)[pancake-farm](https://github.com/pancakeswap/pancake-farm/pull/26) ![sushiswap](https://avatars.githubusercontent.com/u/72222929?s=40&v=4)[sushiswap](https://github.com/sushiswap/sushiswap/pull/24) ![Uniswap](https://avatars.githubusercontent.com/u/36115574?s=40&v=4)[org-v1](https://github.com/Uniswap/org-v1/pull/123) ![maticnetwork](https://avatars.githubusercontent.com/u/30753617?s=40&v=4)
   [matic-docs](https://github.com/maticnetwork/matic-docs/pull/423) ![0xPolygon](https://avatars.githubusercontent.com/u/66309068?s=40&v=4)
-  [fx-portal](https://github.com/0xPolygon/fx-portal/pull/7/commits)
+  [fx-portal](https://github.com/0xPolygon/fx-portal/pull/7/commits) ![AlphaFinanceLab](https://avatars.githubusercontent.com/u/69663020?s=40&v=4)
+  [alpha-homora-v1-eth-contract](https://github.com/AlphaFinanceLab/alpha-homora-v1-eth-contract/pull/18)
 <br/>
 
