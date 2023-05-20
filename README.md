@@ -3,7 +3,7 @@
 ## 💫 About Me:
 An EVM Blockchain's Smart Contract Developer/ Architect  with over 4.5+ years of experience building decentralized applications and smart contracts for Ethereum, Layer 2(Arbitrum), Binance Smart Chain, Polygon(prev. Matic) and Tron.
 
-📫 [My Resume](https://drive.google.com/file/d/1W0MrPJTeooBP5YHyvyTN5_BCKPkJeDR1/view?usp=sharing)
+📫 [My Resume](https://drive.google.com/file/d/1kQH1vdL5Yq6XG0Nb54jgtyge1NNd3Ey1/view?usp=share_link)
 
 ## 💬 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/choudharyakshit/) 
