@@ -52,6 +52,6 @@ An EVM Blockchain's Smart Contract Developer/ Architect  with over 4.5+ years of
 **Guilty Pleasures 🤭** : ![pancakeswap](https://avatars.githubusercontent.com/u/71247426?s=40&v=4)[pancake-farm](https://github.com/pancakeswap/pancake-farm/pull/26) ![sushiswap](https://avatars.githubusercontent.com/u/72222929?s=40&v=4)[sushiswap](https://github.com/sushiswap/sushiswap/pull/24) ![Uniswap](https://avatars.githubusercontent.com/u/36115574?s=40&v=4)[org-v1](https://github.com/Uniswap/org-v1/pull/123) ![maticnetwork](https://avatars.githubusercontent.com/u/30753617?s=40&v=4)
   [matic-docs](https://github.com/maticnetwork/matic-docs/pull/423) ![0xPolygon](https://avatars.githubusercontent.com/u/66309068?s=40&v=4)
   [fx-portal](https://github.com/0xPolygon/fx-portal/pull/7/commits) ![AlphaFinanceLab](https://avatars.githubusercontent.com/u/69663020?s=40&v=4)
-  [alpha-homora-v1-eth-contract](https://github.com/AlphaFinanceLab/alpha-homora-v1-eth-contract/pull/18)
-<br/>
+  [alpha-homora-v1-eth-contract](https://github.com/AlphaFinanceLab/alpha-homora-v1-eth-contract/pull/18) ![MoralisWeb3](https://avatars.githubusercontent.com/u/80474746?s=40&v=4)
+[nft-marketplace-tutorials](https://github.com/MoralisWeb3/youtube-tutorials/pull/48)
 
