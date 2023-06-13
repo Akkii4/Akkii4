@@ -5,10 +5,6 @@ An EVM Blockchain's Smart Contract Developer/ Architect  with over 4.5+ years of
 
 📫 [My Resume](https://drive.google.com/file/d/1woF-qvvBaGi4o6AUg1ShS98mLABgPudg/view?usp=share_link)
 
-## 💬 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/choudharyakshit/) 
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshitchoudhary007@gmail.com) 
-
 ## 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) <img src="https://img.shields.io/badge/Hardhat-ffff00?style=for-the-badge&logo=truffle&logoColor=white" />
 <img src="https://img.shields.io/badge/Truffle-623CE4?style=for-the-badge&logo=truffle&logoColor=white" />![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
