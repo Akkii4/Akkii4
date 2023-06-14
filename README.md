@@ -33,7 +33,7 @@ An EVM Blockchain's Smart Contract Developer/ Architect  with over 4.5+ years of
 ![Cardano Community](https://avatars.githubusercontent.com/u/59729625?s=40&v=4)
   [guild-operators](https://github.com/cardano-community/guild-operators/issues/420)
 ![Uniswap](https://avatars.githubusercontent.com/u/36115574?s=40&v=4)
-  [interface](https://github.com/Uniswap/interface/pull/4186)  • [docs](https://github.com/Uniswap/docs/pull/594)<br/>
+  [interface](https://github.com/Uniswap/interface/pull/4186) • [docs](https://github.com/Uniswap/docs/pull/594) <br/>
 ![dfyn](https://avatars.githubusercontent.com/u/72025535?s=40&v=4)
   [new-host](https://github.com/dfyn/new-host/pull/14) • [dfyn-analytics](https://github.com/dfyn/dfyn-analytics/pull/2)
 ![Value Network](https://s2.coinmarketcap.com/static/img/coins/64x64/9230.png)
