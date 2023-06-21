@@ -11,7 +11,7 @@ An EVM Blockchain's Smart Contract Developer/ Architect  with over 4.5+ years of
 </br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akkii4&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&hide_border=false&include_all_commits=true&rank_icon=default&show_icons=true&hide_title=true&disable_animations=true&number_format=long&show=reviews)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&hide_border=false)
 <br/>
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Akkii4&theme=onedark&no-frame=false&no-bg=false&margin-w=4) 
