@@ -3,7 +3,7 @@
 ## 💫 About Me:
 An EVM Blockchain's Smart Contract Developer/ Architect  with over 4.5+ years of experience building decentralized applications and smart contracts for Ethereum, Layer 2(Arbitrum), Binance Smart Chain, Polygon(prev. Matic) and Tron.
 
-📫 [My Resume](https://drive.google.com/file/d/1woF-qvvBaGi4o6AUg1ShS98mLABgPudg/view?usp=share_link)
+📫 [My Resume](https://drive.google.com/file/d/1JrTMPuWlrxUdS1PVw5u6xQ0DX3tDBcWa/view?usp=sharing)
 
 ## 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) <img src="https://img.shields.io/badge/Hardhat-ffff00?style=for-the-badge&logo=truffle&logoColor=white" />
