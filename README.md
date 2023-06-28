@@ -50,7 +50,7 @@ An EVM Blockchain's Smart Contract Developer/ Architect  with over 4.5+ years of
 ![maticnetwork](https://avatars.githubusercontent.com/u/30753617?s=40&v=4) ☞
   [matic-docs](https://github.com/maticnetwork/matic-docs/pull/423) 
 ![0xPolygon](https://avatars.githubusercontent.com/u/66309068?s=40&v=4) ☞
-  [fx-portal](https://github.com/0xPolygon/fx-portal/pull/7/commits)
+  [fx-portal](https://github.com/0xPolygon/fx-portal/pull/7/commits)<br/>
 ![AlphaFinanceLab](https://avatars.githubusercontent.com/u/69663020?s=40&v=4) ☞
   [alpha-homora-v1-eth-contract](https://github.com/AlphaFinanceLab/alpha-homora-v1-eth-contract/pull/18) 
 ![MoralisWeb3](https://avatars.githubusercontent.com/u/80474746?s=40&v=4) ☞
