@@ -59,3 +59,26 @@ efficiency and deliver better results. Proven ability to work independently and 
 ![MoralisWeb3](https://avatars.githubusercontent.com/u/80474746?s=40&v=4) ☞
 [nft-marketplace-tutorials](https://github.com/MoralisWeb3/youtube-tutorials/pull/48)
 
+## 📌 Pinned Repositories
+
+<a href="https://github.com/Akkii4/Solidity_Cheatsheet">
+  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Cheatsheet&theme=onedark" />
+</a>
+<a href="https://github.com/Akkii4/Blockchain_Concepts">
+  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Blockchain_Concepts&theme=onedark" />
+</a>
+<a href="https://github.com/Akkii4/SolidityTricky_Code">
+  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=SolidityTricky_Code&theme=onedark" />
+</a>
+<a href="https://github.com/Akkii4/etherfi_refactored">
+  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=etherfi_refactored&theme=onedark" />
+</a>
+<a href="https://github.com/Akkii4/Solidity_Attacks">
+  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Attacks&theme=onedark" />
+</a>
+<a href="https://github.com/Akkii4/GasOptimisation_Solidity">
+  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=GasOptimisation_Solidity&theme=onedark" />
+</a>
+<a href="https://github.com/cryption-network/polydex-contracts">
+  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=cryption-network&repo=polydex-contracts&theme=onedark&show_owner=true" />
+</a>
