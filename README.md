@@ -14,16 +14,20 @@ efficiency and deliver better results. Proven ability to work independently and 
 </br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=true&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360)
+<a href="https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=true&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews">
+  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=true&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360" />
+</a>
 <br/>
+
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Akkii4&theme=onedark&no-frame=false&no-bg=false&margin-w=4) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akkii4&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
-
-<!-- ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akkii4&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+ ## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Akkii4&limit=3&theme=onedark&combine_all_yearly_contributions=true)
  -->
+ 
 ## 🌐 Open Source Contributions towards:
 ![pancakeswap](https://avatars.githubusercontent.com/u/71247426?s=40&v=4) ☞
    pancake-swap-periphery : [[1]](https://github.com/pancakeswap/pancake-swap-periphery/pull/8) • [[2]](https://github.com/pancakeswap/pancake-swap-periphery/pull/10) •[pancake-farm](https://github.com/pancakeswap/pancake-farm/pull/21)
