@@ -15,7 +15,7 @@ efficiency and deliver better results. Proven ability to work independently and 
 
 ## 📊 GitHub Stats:
 <a href="https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=true&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=true&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews" />
+  <img width="468" align="center" alt="image" src="https://github.com/Akkii4/Akkii4/assets/47569427/b5fef196-de91-4d5f-bb44-e2beb2e3d6bb">
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360" />
@@ -66,23 +66,23 @@ efficiency and deliver better results. Proven ability to work independently and 
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/Akkii4/Solidity_Cheatsheet">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Cheatsheet&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akkii4&repo=Solidity_Cheatsheet&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/Blockchain_Concepts">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Blockchain_Concepts&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akkii4&repo=Blockchain_Concepts&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/SolidityTricky_Code">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=SolidityTricky_Code&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akkii4&repo=SolidityTricky_Code&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/etherfi_refactored">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=etherfi_refactored&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akkii4&repo=etherfi_refactored&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/Solidity_Attacks">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Attacks&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akkii4&repo=Solidity_Attacks&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/GasOptimisation_Solidity">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=GasOptimisation_Solidity&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akkii4&repo=GasOptimisation_Solidity&theme=onedark" />
 </a>
 <a href="https://github.com/cryption-network/polydex-contracts">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=cryption-network&repo=polydex-contracts&theme=onedark&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cryption-network&repo=polydex-contracts&theme=onedark&show_owner=true" />
 </a>
