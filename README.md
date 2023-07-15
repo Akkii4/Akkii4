@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 Experienced Blockchain Smart Contract Developer/Architect specializing in DeFi and NFT based DApp development and testing on
-multiple EVM-based/ Layer 2 chains with 4.5 years of work experience. Proficient in integrating Web3 data with UI to create a seamless
+multiple EVM-based/ Layer 2 chains with 5 years of work experience. Proficient in integrating Web3 data with UI to create a seamless
 user experience. Enthusiastic about learning new concepts, and upskilling myself with the latest technologies and resources to improve
 efficiency and deliver better results. Proven ability to work independently and as part of a team.
 
@@ -15,7 +15,7 @@ efficiency and deliver better results. Proven ability to work independently and 
 
 ## 📊 GitHub Stats:
 <a href="https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=true&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews">
-  <img width="468" align="center" alt="image" src="https://github.com/Akkii4/Akkii4/assets/47569427/b5fef196-de91-4d5f-bb44-e2beb2e3d6bb">
+  <img width="468" align="center" alt="image" src="https://github.com/Akkii4/Akkii4/assets/47569427/7b0e0419-adfd-4a9d-af7f-07b41568b499">
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360" />
