@@ -86,9 +86,6 @@ efficiency and deliver better results. Proven ability to work independently and 
 <a href="https://github.com/cryption-network/polydex-contracts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cryption-network&repo=polydex-contracts&theme=onedark&show_owner=true" />
 </a>
-<a href="https://github.com/Akkii4/GasOptimisation_Solidity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akkii4&repo=GasOptimisation_Solidity&theme=onedark" />
-</a>
 <a href="https://github.com/Akkii4/UniswapV3_Interaction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akkii4&repo=UniswapV3_Interaction&theme=onedark" />
 </a>
