@@ -1,12 +1,11 @@
 ## Hey there 👋, you stumbled upon the profile of a Solidity Engineer ## 
 
 ## 💫 About Me:
-Experienced Blockchain Smart Contract Developer/ Architect specializing in DeFi, NFT and DAO based DApp development and testing on
-multiple EVM-based/ Layer 2 chains with 5 years of dedicated Web3 experience. Proficient in integrating Blockchain data with UI to create a seamless
-user experience. Enthusiastic about learning new concepts, and upskilling myself with the latest technologies and resources to improve
-efficiency and deliver better results. Proven ability to work independently and as part of a team.
+5 years of experience as Solidity Engineer, specializing in various DeFi, NFT and DAO based dApp development and testing on multiple EVM based/ Layer 2 chains. 
+Proficient in integrating Blockchain data with UI to create a seamless user experience. Enthusiastic about learning new concepts, 
+and upskilling myself with the latest technologies and resources to improve efficiency and deliver better results. Proven ability to work independently and as part of a team.
 
-📫 [My Resume](https://drive.google.com/file/d/1vYjRMjddqxlUREj77rRdHj1Nac6rYTsK/view?usp=share_link)
+📫 [My Resume](https://drive.google.com/file/d/15QYO7hjbImm_LuT8-WPRohTe3MpN4fPS/view?usp=sharing)
 
 ## 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) <img src="https://img.shields.io/badge/Hardhat-ffff00?style=for-the-badge&logo=truffle&logoColor=white" />
