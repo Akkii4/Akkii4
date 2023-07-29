@@ -5,7 +5,7 @@
 Proficient in integrating Blockchain data with UI to create a seamless user experience. Enthusiastic about learning new concepts, 
 and upskilling myself with the latest technologies and resources to improve efficiency and deliver better results. Proven ability to work independently and as part of a team.
 
-📫 [My Resume](https://drive.google.com/file/d/15QYO7hjbImm_LuT8-WPRohTe3MpN4fPS/view?usp=sharing)
+📫 [My Resume](https://drive.google.com/file/d/12ghaQsvbnm_4NECCMxeg1H-IZKTKnT1q/view?usp=sharing)
 
 ## 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) <img src="https://img.shields.io/badge/Hardhat-ffff00?style=for-the-badge&logo=truffle&logoColor=white" />
