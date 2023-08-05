@@ -14,7 +14,7 @@ and upskilling myself with the latest technologies and resources to improve effi
 
 ## 📊 GitHub Stats:
 <a href="https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=true&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews">
-  <img width="468" align="center" alt="image" src="https://github.com/Akkii4/Akkii4/assets/47569427/f1cd5004-25b5-4916-b3f0-07b3633e4bc5">
+  <img width="468" align="center" alt="image" src="https://github.com/Akkii4/Akkii4/assets/47569427/5895ea62-3b7e-4ff9-9f57-47a361440da3">
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360" />
@@ -39,6 +39,8 @@ and upskilling myself with the latest technologies and resources to improve effi
   [sushiswap-subgraph](https://github.com/sushiswap/sushiswap-subgraph/pull/57)
 ![Cardano Community](https://avatars.githubusercontent.com/u/59729625?s=40&v=4) ☞
   [guild-operators](https://github.com/cardano-community/guild-operators/issues/420)<br/>
+![fvictorio](https://avatars.githubusercontent.com/u/417134?s=40&v=4) ☞
+  [evm-puzzles](https://github.com/fvictorio/evm-puzzles/pull/13)
 ![Uniswap](https://avatars.githubusercontent.com/u/36115574?s=40&v=4) ☞
   [interface](https://github.com/Uniswap/interface/pull/4186) • [docs](https://github.com/Uniswap/docs/pull/594)<br/>
  ![dfyn](https://avatars.githubusercontent.com/u/72025535?s=40&v=4) ☞
@@ -61,6 +63,8 @@ and upskilling myself with the latest technologies and resources to improve effi
   [alpha-homora-v1-eth-contract](https://github.com/AlphaFinanceLab/alpha-homora-v1-eth-contract/pull/18) 
 ![MoralisWeb3](https://avatars.githubusercontent.com/u/80474746?s=40&v=4) ☞
 [nft-marketplace-tutorials](https://github.com/MoralisWeb3/youtube-tutorials/pull/48)
+![smlxl/evm.codes](https://www.evm.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fethereum_logo.9122aeab.png&w=48&q=75) ☞
+[evm.codes](https://github.com/smlxl/evm.codes/issues/265)
 
 ## 📌 Pinned Repositories
 
@@ -96,4 +100,7 @@ and upskilling myself with the latest technologies and resources to improve effi
 </a>
 <a href="https://github.com/cryption-network/polydex-contracts">
   <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=cryption-network&repo=polydex-contracts&theme=onedark&show_owner=true" />
+</a>
+<a href="https://github.com/Akkii4/Solutions_fvictorio-EvmPuzzles">
+  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solutions_fvictorio-EvmPuzzles&theme=onedark" />
 </a>
