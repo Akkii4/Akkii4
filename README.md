@@ -69,41 +69,41 @@ and upskilling myself with the latest technologies and resources to improve effi
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/Akkii4/Solidity_Cheatsheet">
-  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Cheatsheet&theme=onedark" />
+  <img width="265" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Cheatsheet&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/Blockchain_Concepts">
-  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Blockchain_Concepts&theme=onedark" />
+  <img width="265" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Blockchain_Concepts&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/SolidityTricky_Code">
-  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=SolidityTricky_Code&theme=onedark" />
+  <img width="265" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=SolidityTricky_Code&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/etherfi_refactored">
-  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=etherfi_refactored&theme=onedark" />
+  <img width="265" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=etherfi_refactored&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/Solidity_Attacks">
-  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Attacks&theme=onedark" />
+  <img width="265" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Attacks&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/GasOptimisation_Solidity">
-  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=GasOptimisation_Solidity&theme=onedark" />
+  <img width="265" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=GasOptimisation_Solidity&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/EIP-2930_Optional-AccessLists">
-  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=EIP-2930_Optional-AccessLists&theme=onedark" />
+  <img width="265" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=EIP-2930_Optional-AccessLists&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/UniswapV3_Interaction">
-  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=UniswapV3_Interaction&theme=onedark" />
+  <img width="265" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=UniswapV3_Interaction&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/balancer_interaction">
-  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=balancer_interaction&theme=onedark" />
+  <img width="265" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=balancer_interaction&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/Ownable2Auth">
-  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Ownable2Auth&theme=onedark" />
+  <img width="265" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Ownable2Auth&theme=onedark" />
 </a>
 <a href="https://github.com/cryption-network/polydex-contracts">
-  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=cryption-network&repo=polydex-contracts&theme=onedark&show_owner=true" />
+  <img width="265" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=cryption-network&repo=polydex-contracts&theme=onedark&show_owner=true" />
 </a>
 <a href="https://github.com/Akkii4/Solutions_fvictorio-EvmPuzzles">
-  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solutions_fvictorio-EvmPuzzles&theme=onedark" />
+  <img width="265" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solutions_fvictorio-EvmPuzzles&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/Solidity_Storage-Layout">
-  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Storage-Layout&theme=onedark" />
+  <img width="265" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Storage-Layout&theme=onedark" />
 </a>
