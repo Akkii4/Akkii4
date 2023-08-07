@@ -42,23 +42,23 @@ and upskilling myself with the latest technologies and resources to improve effi
 ![fvictorio](https://avatars.githubusercontent.com/u/417134?s=40&v=4) ☞
   [evm-puzzles](https://github.com/fvictorio/evm-puzzles/pull/13)
 ![Uniswap](https://avatars.githubusercontent.com/u/36115574?s=40&v=4) ☞
-  [interface](https://github.com/Uniswap/interface/pull/4186) • [docs](https://github.com/Uniswap/docs/pull/594)<br/>
+  [interface](https://github.com/Uniswap/interface/pull/4186) • [docs](https://github.com/Uniswap/docs/pull/594)
  ![dfyn](https://avatars.githubusercontent.com/u/72025535?s=40&v=4) ☞
-  [new-host](https://github.com/dfyn/new-host/pull/14) • [dfyn-analytics](https://github.com/dfyn/dfyn-analytics/pull/2)
+  [new-host](https://github.com/dfyn/new-host/pull/14) • [dfyn-analytics](https://github.com/dfyn/dfyn-analytics/pull/2)<br/>
 ![Value Network](https://s2.coinmarketcap.com/static/img/coins/64x64/9230.png) ☞
   [Linear-Vesting](https://github.com/valuenetworklive2021/Linear-Vesting/commits?author=Akkii4&since=2020-11-30&until=2020-12-31)
 ![jamesbachini](https://avatars.githubusercontent.com/u/20736739?s=40&v=4) ☞
-  [SBT-Soul-Bound-Token](https://github.com/jamesbachini/Solidity-SBT-Soul-Bound-Token/pull/2#issuecomment-1548133418)<br/>
+  [SBT-Soul-Bound-Token](https://github.com/jamesbachini/Solidity-SBT-Soul-Bound-Token/pull/2#issuecomment-1548133418)
 ![patrickd-](https://avatars.githubusercontent.com/u/2522448?s=40&v=4) ☞
-  [cheatsheet.sol](https://github.com/patrickd-/cheatsheet.sol/pull/1)
+  [cheatsheet.sol](https://github.com/patrickd-/cheatsheet.sol/pull/1)<br/>
 ![Kommunitas-net](https://avatars.githubusercontent.com/u/72222929?s=40&v=4) ☞
   [Kommunitas-Staking](https://github.com/Kommunitas-net/Kommunitas-Staking/commits?author=Akkii4&since=2021-06-30&until=2021-08-31Kommunitas-Staking) • [Kommunitas_Voting_Token](https://github.com/Kommunitas-net/Kommunitas_Voting_Token/commits?author=Akkii4&since=2021-06-30&until=2021-07-31) • [Staking-Interface](https://github.com/Kommunitas-net/Staking-Interface/commits?author=Akkii4&since=2021-06-30&until=2021-08-31Staking-Interface) • [Airdrop](https://github.com/Kommunitas-net/Airdrop/commits?author=Akkii4&since=2021-07-31&until=2021-08-31)<br/>
-**Guilty Pleasures 🤭** : ![pancakeswap](https://avatars.githubusercontent.com/u/71247426?s=40&v=4) ☞ [pancake-farm](https://github.com/pancakeswap/pancake-farm/pull/26) ![sushiswap](https://avatars.githubusercontent.com/u/72222929?s=40&v=4) ☞ [sushiswap](https://github.com/sushiswap/sushiswap/pull/24) 
+**Some Guilty Pleasures 🤭** : ![pancakeswap](https://avatars.githubusercontent.com/u/71247426?s=40&v=4) ☞ [pancake-farm](https://github.com/pancakeswap/pancake-farm/pull/26) ![sushiswap](https://avatars.githubusercontent.com/u/72222929?s=40&v=4) ☞ [sushiswap](https://github.com/sushiswap/sushiswap/pull/24) 
 ![Uniswap](https://avatars.githubusercontent.com/u/36115574?s=40&v=4) ☞ [org-v1](https://github.com/Uniswap/org-v1/pull/123) 
 ![maticnetwork](https://avatars.githubusercontent.com/u/30753617?s=40&v=4) ☞
-  [matic-docs](https://github.com/maticnetwork/matic-docs/pull/423) 
+  [matic-docs](https://github.com/maticnetwork/matic-docs/pull/423)<br/>
 ![0xPolygon](https://avatars.githubusercontent.com/u/66309068?s=40&v=4) ☞
-  [fx-portal](https://github.com/0xPolygon/fx-portal/pull/7/commits)<br/>
+  [fx-portal](https://github.com/0xPolygon/fx-portal/pull/7/commits)
 ![AlphaFinanceLab](https://avatars.githubusercontent.com/u/69663020?s=40&v=4) ☞
   [alpha-homora-v1-eth-contract](https://github.com/AlphaFinanceLab/alpha-homora-v1-eth-contract/pull/18) 
 ![MoralisWeb3](https://avatars.githubusercontent.com/u/80474746?s=40&v=4) ☞
@@ -69,38 +69,41 @@ and upskilling myself with the latest technologies and resources to improve effi
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/Akkii4/Solidity_Cheatsheet">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Cheatsheet&theme=onedark" />
+  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Cheatsheet&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/Blockchain_Concepts">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Blockchain_Concepts&theme=onedark" />
+  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Blockchain_Concepts&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/SolidityTricky_Code">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=SolidityTricky_Code&theme=onedark" />
+  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=SolidityTricky_Code&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/etherfi_refactored">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=etherfi_refactored&theme=onedark" />
+  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=etherfi_refactored&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/Solidity_Attacks">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Attacks&theme=onedark" />
+  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Attacks&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/GasOptimisation_Solidity">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=GasOptimisation_Solidity&theme=onedark" />
+  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=GasOptimisation_Solidity&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/EIP-2930_Optional-AccessLists">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=EIP-2930_Optional-AccessLists&theme=onedark" />
+  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=EIP-2930_Optional-AccessLists&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/UniswapV3_Interaction">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=UniswapV3_Interaction&theme=onedark" />
+  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=UniswapV3_Interaction&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/balancer_interaction">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=balancer_interaction&theme=onedark" />
+  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=balancer_interaction&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/Ownable2Auth">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Ownable2Auth&theme=onedark" />
+  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Ownable2Auth&theme=onedark" />
 </a>
 <a href="https://github.com/cryption-network/polydex-contracts">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=cryption-network&repo=polydex-contracts&theme=onedark&show_owner=true" />
+  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=cryption-network&repo=polydex-contracts&theme=onedark&show_owner=true" />
 </a>
 <a href="https://github.com/Akkii4/Solutions_fvictorio-EvmPuzzles">
-  <img align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solutions_fvictorio-EvmPuzzles&theme=onedark" />
+  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solutions_fvictorio-EvmPuzzles&theme=onedark" />
+</a>
+<a href="https://github.com/Akkii4/Solidity_Storage-Layout">
+  <img width="320" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Storage-Layout&theme=onedark" />
 </a>
