@@ -3,7 +3,7 @@
 ## 💫 About Me:
 5 years of experience in the development and testing of Smart Contracts and dApps spanning across EVM-based and Layer 2 chains. Possess deep knowledge of Solidity and its core principles, including opcodes, EVM, assembly, and solidity storage layout, also proficient in integrating Web3 data with UI. Proven ability to work independently yet collaborative as a team player and always eager to self-learn new concepts and upskill with the latest technologies and resources.
 
-📫 [My Resume](https://drive.google.com/file/d/1T_O3I8IoxXh7U-IwkkpkXOvS1Nwky8Jr/view?usp=sharing)
+📫 [My Resume](https://drive.google.com/file/d/13aR2l4Csy3sOjhgEyoV-OUOrPKRKMc2b/view?usp=sharing)
 
 ## 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) <img src="https://img.shields.io/badge/Hardhat-ffff00?style=for-the-badge&logo=truffle&logoColor=white" />
