@@ -11,12 +11,15 @@
 </br>
 
 ## 📊 GitHub Stats:
-<a href="https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=true&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews">
-  <img width="468" align="center" alt="image" src="https://github.com/Akkii4/Akkii4/assets/47569427/5895ea62-3b7e-4ff9-9f57-47a361440da3">
+<a href="https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=false&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews">
+  <img width="468" align="center" alt="image" src="https://github.com/Akkii4/Akkii4/assets/47569427/2d738f95-ad7c-4401-95df-7faaf088fd0a">
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360" />
 </a>
+<!-- <a href="https://streak-stats.demolab.com/?user=Akkii4&theme=onedark&card_width=360">
+  <img align="center" src="https://streak-stats.demolab.com/?user=Akkii4&theme=onedark&card_width=360" />
+</a> -->
 <br/>
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Akkii4&theme=onedark&no-frame=false&no-bg=false&margin-w=4) 
