@@ -69,8 +69,8 @@
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/Akkii4/Solidity_Cheatsheet">
-  <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Cheatsheet&theme=onedark" />
+<a href="https://github.com/Akkii4/Solidity-Yul_Cheatsheet">
+  <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity-Yul_Cheatsheet&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/Blockchain_Concepts">
   <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Blockchain_Concepts&theme=onedark" />
