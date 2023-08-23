@@ -45,13 +45,15 @@
 ![Uniswap](https://avatars.githubusercontent.com/u/36115574?s=40&v=4) ☞
   [interface](https://github.com/Uniswap/interface/pull/4186) • [docs](https://github.com/Uniswap/docs/pull/594)
  ![dfyn](https://avatars.githubusercontent.com/u/72025535?s=40&v=4) ☞
-  [new-host](https://github.com/dfyn/new-host/pull/14) • [dfyn-analytics](https://github.com/dfyn/dfyn-analytics/pull/2)<br/>
+  [new-host](https://github.com/dfyn/new-host/pull/14) • [dfyn-analytics](https://github.com/dfyn/dfyn-analytics/pull/2)
 ![Value Network](https://s2.coinmarketcap.com/static/img/coins/64x64/9230.png) ☞
-  [Linear-Vesting](https://github.com/valuenetworklive2021/Linear-Vesting/commits?author=Akkii4&since=2020-11-30&until=2020-12-31)
+  [Linear-Vesting](https://github.com/valuenetworklive2021/Linear-Vesting/commits?author=Akkii4&since=2020-11-30&until=2020-12-31)<br/>
 ![jamesbachini](https://avatars.githubusercontent.com/u/20736739?s=40&v=4) ☞
   [SBT-Soul-Bound-Token](https://github.com/jamesbachini/Solidity-SBT-Soul-Bound-Token/pull/2#issuecomment-1548133418)
 ![patrickd-](https://avatars.githubusercontent.com/u/2522448?s=40&v=4) ☞
-  [cheatsheet.sol](https://github.com/patrickd-/cheatsheet.sol/pull/1)<br/>
+  [cheatsheet.sol](https://github.com/patrickd-/cheatsheet.sol/pull/1)
+![andreitoma8](https://avatars.githubusercontent.com/u/96236521?s=40&v=4) ☞
+  learn-yul : [[1]](https://github.com/andreitoma8/learn-yul/pull/2)  • [[2]](https://github.com/andreitoma8/learn-yul/pull/3) <br/>
 ![Kommunitas-net](https://avatars.githubusercontent.com/u/72222929?s=40&v=4) ☞
   [Kommunitas-Staking](https://github.com/Kommunitas-net/Kommunitas-Staking/commits?author=Akkii4&since=2021-06-30&until=2021-08-31Kommunitas-Staking) • [Kommunitas_Voting_Token](https://github.com/Kommunitas-net/Kommunitas_Voting_Token/commits?author=Akkii4&since=2021-06-30&until=2021-07-31) • [Staking-Interface](https://github.com/Kommunitas-net/Staking-Interface/commits?author=Akkii4&since=2021-06-30&until=2021-08-31Staking-Interface) • [Airdrop](https://github.com/Kommunitas-net/Airdrop/commits?author=Akkii4&since=2021-07-31&until=2021-08-31)<br/>
 **Some Guilty Pleasures 🤭** : ![pancakeswap](https://avatars.githubusercontent.com/u/71247426?s=40&v=4) ☞ [pancake-farm](https://github.com/pancakeswap/pancake-farm/pull/26) ![sushiswap](https://avatars.githubusercontent.com/u/72222929?s=40&v=4) ☞ [sushiswap](https://github.com/sushiswap/sushiswap/pull/24) 
