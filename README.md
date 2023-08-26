@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats:
 <a href="https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=false&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews">
-  <img width="468" align="center" alt="image" src="https://github.com/Akkii4/Akkii4/assets/47569427/2d738f95-ad7c-4401-95df-7faaf088fd0a">
+  <img width="468" align="center" alt="image" src="https://github.com/Akkii4/Akkii4/assets/47569427/989da8f3-051e-4d0e-b075-cc7d55b175de">
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360" />
@@ -31,30 +31,34 @@
 ## 🌐 Open Source Contributions towards:
 ![pancakeswap](https://avatars.githubusercontent.com/u/71247426?s=40&v=4) ☞
    pancake-swap-periphery : [[1]](https://github.com/pancakeswap/pancake-swap-periphery/pull/8) • [[2]](https://github.com/pancakeswap/pancake-swap-periphery/pull/10) •[pancake-farm](https://github.com/pancakeswap/pancake-farm/pull/21)
-  • [pancake-frontend](https://github.com/pancakeswap/pancake-frontend/pull/1163) • [pancake-swap-core](https://github.com/pancakeswap/pancake-swap-core/pull/20)<br/>
+  • [pancake-frontend](https://github.com/pancakeswap/pancake-frontend/pull/1163) • [pancake-swap-core](https://github.com/pancakeswap/pancake-swap-core/pull/20) <br/>
 ![Cardano Foundation](https://avatars.githubusercontent.com/u/37078161?s=40&v=4) ☞
   [incentivized-testnet-stakepool-registry](https://github.com/cardano-foundation/incentivized-testnet-stakepool-registry/commits?author=Akkii4&since=2020-04-27&until=2020-04-28)
 ![NomicFoundation](https://avatars.githubusercontent.com/u/38917137?s=40&v=4) ☞
   [hardhat](https://github.com/NomicFoundation/hardhat/pull/1527)
 ![sushiswap](https://avatars.githubusercontent.com/u/72222929?s=40&v=4) ☞
   [sushiswap-subgraph](https://github.com/sushiswap/sushiswap-subgraph/pull/57)
-![Cardano Community](https://avatars.githubusercontent.com/u/59729625?s=40&v=4) ☞
-  [guild-operators](https://github.com/cardano-community/guild-operators/issues/420)<br/>
+<br/>
+    ![ethereum](https://avatars.githubusercontent.com/u/6250754?s=40&v=4) ☞
+  [solidity](https://github.com/ethereum/solidity/pull/14516)
 ![fvictorio](https://avatars.githubusercontent.com/u/417134?s=40&v=4) ☞
   [evm-puzzles](https://github.com/fvictorio/evm-puzzles/pull/13)
 ![Uniswap](https://avatars.githubusercontent.com/u/36115574?s=40&v=4) ☞
   [interface](https://github.com/Uniswap/interface/pull/4186) • [docs](https://github.com/Uniswap/docs/pull/594)
  ![dfyn](https://avatars.githubusercontent.com/u/72025535?s=40&v=4) ☞
   [new-host](https://github.com/dfyn/new-host/pull/14) • [dfyn-analytics](https://github.com/dfyn/dfyn-analytics/pull/2)
-![Value Network](https://s2.coinmarketcap.com/static/img/coins/64x64/9230.png) ☞
-  [Linear-Vesting](https://github.com/valuenetworklive2021/Linear-Vesting/commits?author=Akkii4&since=2020-11-30&until=2020-12-31)<br/>
-![jamesbachini](https://avatars.githubusercontent.com/u/20736739?s=40&v=4) ☞
+<br/>
+![Cardano Community](https://avatars.githubusercontent.com/u/59729625?s=40&v=4) ☞
+  [guild-operators](https://github.com/cardano-community/guild-operators/issues/420)
+  ![jamesbachini](https://avatars.githubusercontent.com/u/20736739?s=40&v=4) ☞
   [SBT-Soul-Bound-Token](https://github.com/jamesbachini/Solidity-SBT-Soul-Bound-Token/pull/2#issuecomment-1548133418)
 ![patrickd-](https://avatars.githubusercontent.com/u/2522448?s=40&v=4) ☞
   [cheatsheet.sol](https://github.com/patrickd-/cheatsheet.sol/pull/1)
 ![andreitoma8](https://avatars.githubusercontent.com/u/96236521?s=40&v=4) ☞
   learn-yul : [[1]](https://github.com/andreitoma8/learn-yul/pull/2)  • [[2]](https://github.com/andreitoma8/learn-yul/pull/3) <br/>
-![Kommunitas-net](https://avatars.githubusercontent.com/u/72222929?s=40&v=4) ☞
+**Value Network** ☞
+  [Linear-Vesting](https://github.com/valuenetworklive2021/Linear-Vesting/commits?author=Akkii4&since=2020-11-30&until=2020-12-31)
+![Kommunitas-net](https://avatars.githubusercontent.com/u/84343154?s=40&v=4) ☞
   [Kommunitas-Staking](https://github.com/Kommunitas-net/Kommunitas-Staking/commits?author=Akkii4&since=2021-06-30&until=2021-08-31Kommunitas-Staking) • [Kommunitas_Voting_Token](https://github.com/Kommunitas-net/Kommunitas_Voting_Token/commits?author=Akkii4&since=2021-06-30&until=2021-07-31) • [Staking-Interface](https://github.com/Kommunitas-net/Staking-Interface/commits?author=Akkii4&since=2021-06-30&until=2021-08-31Staking-Interface) • [Airdrop](https://github.com/Kommunitas-net/Airdrop/commits?author=Akkii4&since=2021-07-31&until=2021-08-31)<br/>
 **Some Guilty Pleasures 🤭** : ![pancakeswap](https://avatars.githubusercontent.com/u/71247426?s=40&v=4) ☞ [pancake-farm](https://github.com/pancakeswap/pancake-farm/pull/26) ![sushiswap](https://avatars.githubusercontent.com/u/72222929?s=40&v=4) ☞ [sushiswap](https://github.com/sushiswap/sushiswap/pull/24) 
 ![Uniswap](https://avatars.githubusercontent.com/u/36115574?s=40&v=4) ☞ [org-v1](https://github.com/Uniswap/org-v1/pull/123) 
