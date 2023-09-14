@@ -3,7 +3,7 @@
 ## 💫 About Me:
 5 years of experience in the development and testing of Smart Contracts and dApps spanning across EVM-based and Layer 2 chains. Possess deep knowledge of Solidity and its core principles, including opcodes, EVM, assembly, and solidity storage layout, also proficient in integrating Web3 data with UI. Proven ability to work independently yet collaborative as a team player and always eager to self-learn new concepts and upskill with the latest technologies and resources.
 
-📫 [My Resume](https://drive.google.com/file/d/13aR2l4Csy3sOjhgEyoV-OUOrPKRKMc2b/view?usp=sharing)
+📫 [My Resume](https://drive.google.com/file/d/1biIIOKWs9DJh4fJGzFRQzbxvJAnuv-eD/view?usp=sharing)
 
 ## 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) <img src="https://img.shields.io/badge/Hardhat-ffff00?style=for-the-badge&logo=truffle&logoColor=white" />
@@ -11,8 +11,8 @@
 </br>
 
 ## 📊 GitHub Stats:
-<a href="https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=false&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews">
-  <img width="468" align="center" alt="image" src="https://github.com/Akkii4/Akkii4/assets/47569427/989da8f3-051e-4d0e-b075-cc7d55b175de">
+<a href="https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=true&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews">
+  <img width="468" align="center" alt="image" src="https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=true&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews">
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360" />
