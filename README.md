@@ -1,7 +1,7 @@
 ## Hey there 👋, you stumbled upon the profile of a Solidity Engineer ## 
 
 ## 💫 About Me:
-5 years of experience in the development and testing of Smart Contracts and dApps spanning across EVM-based and Layer 2 chains. Possess deep knowledge of Solidity and its core principles, including opcodes, EVM, assembly, and solidity storage layout, also proficient in integrating Web3 data with UI. Proven ability to work independently yet collaborative as a team player and always eager to self-learn new concepts and upskill with the latest technologies and resources.
+5 years of experience in the development and testing of Smart Contracts and dApps across EVM-based and Layer 2 chains. Have deep knowledge of Solidity and its core principles, including opcodes, EVM, assembly, and solidity storage layout.Able to work independently to delve deep into a complex issue, yet also collaborate cross-functionally to deliver projects or integrating Web3 data with UI. My background enables me to quickly learn and apply emerging innovations in the blockchain space.
 
 📫 [My Resume](https://drive.google.com/file/d/1biIIOKWs9DJh4fJGzFRQzbxvJAnuv-eD/view?usp=sharing)
 
