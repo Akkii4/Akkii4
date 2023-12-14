@@ -11,8 +11,8 @@
 </br>
 
 ## 📊 GitHub Stats:
-<a href="https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=true&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews">
-  <img width="468" align="center" alt="image" src="https://github-readme-stats-hlvv.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=true&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews">
+<a href="https://github-readme-stats-hlvv-akkii4.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=true&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews">
+  <img width="468" align="center" alt="image" src="https://github-readme-stats-hlvv-akkii4.vercel.app/api?username=Akkii4&theme=onedark&include_all_commits=true&rank_icon=default&show_icons=true&hide_title=true&number_format=long&show=reviews">
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akkii4&theme=onedark&card_width=360" />
@@ -76,41 +76,41 @@
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/Akkii4/Solidity-Yul_Cheatsheet">
-  <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity-Yul_Cheatsheet&theme=onedark" />
+  <img width="275" align="center" src="https://github-readme-stats-hlvv-akkii4.vercel.app/api/pin/?username=akkii4&repo=Solidity-Yul_Cheatsheet&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/Blockchain_Concepts">
-  <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Blockchain_Concepts&theme=onedark" />
+  <img width="275" align="center" src="https://github-readme-stats-hlvv-akkii4.vercel.app/api/pin/?username=akkii4&repo=Blockchain_Concepts&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/SolidityTricky_Code">
-  <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=SolidityTricky_Code&theme=onedark" />
+  <img width="275" align="center" src="https://github-readme-stats-hlvv-akkii4.vercel.app/api/pin/?username=akkii4&repo=SolidityTricky_Code&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/etherfi_refactored">
-  <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=etherfi_refactored&theme=onedark" />
+  <img width="275" align="center" src="https://github-readme-stats-hlvv-akkii4.vercel.app/api/pin/?username=akkii4&repo=etherfi_refactored&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/Solidity_Attacks">
-  <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Attacks&theme=onedark" />
+  <img width="275" align="center" src="https://github-readme-stats-hlvv-akkii4.vercel.app/api/pin/?username=akkii4&repo=Solidity_Attacks&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/GasOptimisation_Solidity">
-  <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=GasOptimisation_Solidity&theme=onedark" />
+  <img width="275" align="center" src="https://github-readme-stats-hlvv-akkii4.vercel.app/api/pin/?username=akkii4&repo=GasOptimisation_Solidity&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/EIP-2930_Optional-AccessLists">
-  <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=EIP-2930_Optional-AccessLists&theme=onedark" />
+  <img width="275" align="center" src="https://github-readme-stats-hlvv-akkii4.vercel.app/api/pin/?username=akkii4&repo=EIP-2930_Optional-AccessLists&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/UniswapV3_Interaction">
-  <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=UniswapV3_Interaction&theme=onedark" />
+  <img width="275" align="center" src="https://github-readme-stats-hlvv-akkii4.vercel.app/api/pin/?username=akkii4&repo=UniswapV3_Interaction&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/balancer_interaction">
-  <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=balancer_interaction&theme=onedark" />
+  <img width="275" align="center" src="https://github-readme-stats-hlvv-akkii4.vercel.app/api/pin/?username=akkii4&repo=balancer_interaction&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/Ownable2Auth">
-  <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Ownable2Auth&theme=onedark" />
+  <img width="275" align="center" src="https://github-readme-stats-hlvv-akkii4.vercel.app/api/pin/?username=akkii4&repo=Ownable2Auth&theme=onedark" />
 </a>
 <a href="https://github.com/cryption-network/polydex-contracts">
-  <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=cryption-network&repo=polydex-contracts&theme=onedark&show_owner=true" />
+  <img width="275" align="center" src="https://github-readme-stats-hlvv-akkii4.vercel.app/api/pin/?username=cryption-network&repo=polydex-contracts&theme=onedark&show_owner=true" />
 </a>
 <a href="https://github.com/Akkii4/Solutions_fvictorio-EvmPuzzles">
-  <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solutions_fvictorio-EvmPuzzles&theme=onedark" />
+  <img width="275" align="center" src="https://github-readme-stats-hlvv-akkii4.vercel.app/api/pin/?username=akkii4&repo=Solutions_fvictorio-EvmPuzzles&theme=onedark" />
 </a>
 <a href="https://github.com/Akkii4/Solidity_Storage-Layout">
-  <img width="275" align="center" src="https://github-readme-stats-hlvv.vercel.app/api/pin/?username=akkii4&repo=Solidity_Storage-Layout&theme=onedark" />
+  <img width="275" align="center" src="https://github-readme-stats-hlvv-akkii4.vercel.app/api/pin/?username=akkii4&repo=Solidity_Storage-Layout&theme=onedark" />
 </a>
